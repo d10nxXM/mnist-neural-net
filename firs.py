@@ -136,4 +136,3 @@ for i in range(20):
         
         
 accuracy_test = get_accuracy(predictions_test, Y_train)
-print(f"Test Accuracy: {accuracy_test:.4f}")
