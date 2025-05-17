@@ -12,5 +12,6 @@ Additionally, I have included the trained model’s weights and biases, saved in
 
 Dataset Credit:
 The MNIST dataset used in this project was obtained from Kaggle.
+
 https://www.kaggle.com/datasets/rakuraku678/mnist-60000-hand-written-number-images?resource=download
 
